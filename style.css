@@ -1,0 +1,36 @@
+.title {
+    background-color: black;
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+
+.gorro{
+    text-align: center;
+}
+.lista{
+    text-align: center;
+}
+button{
+    font-size: 30px;
+    font-weight: bold;
+}
+ #lasagna{
+    background-color: red;
+    color: beige;
+ }
+
+ #tacos {
+    background-color: pink;
+    color: blueviolet;
+ }
+
+ #bowl {
+    background-color: green;
+    color: black;
+ }
+
+body {
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+}
